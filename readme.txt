@@ -29,6 +29,9 @@ KAPTNN Financial Calculator is a versatile WordPress plugin that provides financ
 
 == Changelog ==
 
+= 1.0.3 =
+* Add Present Value Calculator
+
 = 1.0.2 =
 * Switched to server-side proxy for secure API communication.
 * Improved error handling for API requests.
